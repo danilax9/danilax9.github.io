@@ -1,3 +1,1 @@
-## danilax9.github.io
-
-danilax9.github.io
+https://danilax9.github.io/
